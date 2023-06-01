@@ -7,10 +7,10 @@
 ---
 
 <p align="left">
-  <a href="https://www.hackerrank.com/leandro_olczyk?hr_r=1" target="_blank">>
+  <a href="https://www.hackerrank.com/leandro_olczyk?hr_r=1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/leandro-olczyk-8297691a3/" target="_blank">>
+  <a href="https://www.linkedin.com/in/leandro-olczyk-8297691a3/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
